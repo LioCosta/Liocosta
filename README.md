@@ -1,4 +1,4 @@
-## Hi, I’m Jorge Costa — a tech enthusiast from Angola.
+## Hi, I’m Lio Costa — a tech enthusiast from Angola.
 
 **`Desenvolvedor FullStack`**
 
